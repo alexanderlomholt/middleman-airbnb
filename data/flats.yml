@@ -1,0 +1,22 @@
+# flats
+ssaunier:
+  name: "John Doe"
+  description: "Nice flat in the city"
+  city_name: "Barcelona, Spain"
+  city_slug: "barcelona"
+  wifi: false
+  rating: 4
+papillard:
+  name: "Jane Doe"
+  description: "Great flat located downtown"
+  city_name: "Copenhagen, Denmark"
+  city_slug: "copenhagen"
+  wifi: true
+  rating: 5
+monsieurpaillard:
+  name: "Troy Hansen"
+  description: "Small, but cozy studio"
+  city_name: "Berlin, Germany"
+  city_slug: "berlin"
+  wifi: true
+  rating: 3
